@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+openai
+langchain
+langchain-openai
+langchain-community
+pymilvus[milvus_lite]
+numpy
+pydantic
+python-dotenv
+requests
+langgraph
